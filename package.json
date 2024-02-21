@@ -1,0 +1,27 @@
+{
+  "name": "dacobabo",
+  "version": "0.0.1",
+  "description": "다코바보🤣",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedille789/dacobabo.git"
+  },
+  "keywords": [
+    "daco",
+    "babo",
+    "dacobabo"
+  ],
+  "author": "Cedille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedille789/dacobabo/issues"
+  },
+  "homepage": "https://github.com/cedille789/dacobabo#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dokdo": "^1.0.1",
+    "hangul-js": "^0.2.6"
+  }
+}
