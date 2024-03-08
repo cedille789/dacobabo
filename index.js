@@ -35,6 +35,7 @@ client.on(Events.MessageCreate, async (message) => {
   }
 
   if (message.content.endsWith("바보")) return message.reply(":rofl:");
+  if (message.content.endsWith("변태")) return message.reply(":woozy_face:");
   if (message.content == "모하지") return message.channel.send("공화국");
 
   DokdoHandler.run(message);
